@@ -2,6 +2,10 @@
 
 This is a simple **multi-pages website** created using **only HTML** with **images** and **videos** used for decoration purposes. It consists of six pages: **index**, **admin**,**contact**,**courses**,**login** and **register**. The website demonstrates how to include multimedia elements like images and videos to enhance the design, while keeping the website simple and functional with just HTML.
 
+> If You want to visit my web site
+
+[click Here](https://rahulchoudhuri.github.io/Multi-pages-web/)
+
 ![demo](./demo_video.gif)
 
 
