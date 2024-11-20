@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-# Multi-page-web
-
-## https://rahulchoudhuri.github.io/Multi-pages-web/
-=======
 # Multi Pages Website with Images and Videos
 
 This is a simple **multi-pages website** created using **only HTML** with **images** and **videos** used for decoration purposes. It consists of six pages: **index**, **admin**,**contact**,**courses**,**login** and **register**. The website demonstrates how to include multimedia elements like images and videos to enhance the design, while keeping the website simple and functional with just HTML.
-
-## Demo video
 
 ![](./demo_video.gif)
 
@@ -46,4 +39,3 @@ To view the website:
 ### License
 
 This project is open-source and free to use. You can modify and distribute it as needed.
->>>>>>> ec01ccc (update readme)
